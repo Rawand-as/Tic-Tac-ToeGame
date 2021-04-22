@@ -1,0 +1,13 @@
+C:\Users\rawand abo salih\source\repos\ticToeC\ticToeC\bin\Debug\netcoreapp3.1\ticToeC.exe
+C:\Users\rawand abo salih\source\repos\ticToeC\ticToeC\bin\Debug\netcoreapp3.1\ticToeC.deps.json
+C:\Users\rawand abo salih\source\repos\ticToeC\ticToeC\bin\Debug\netcoreapp3.1\ticToeC.runtimeconfig.json
+C:\Users\rawand abo salih\source\repos\ticToeC\ticToeC\bin\Debug\netcoreapp3.1\ticToeC.runtimeconfig.dev.json
+C:\Users\rawand abo salih\source\repos\ticToeC\ticToeC\bin\Debug\netcoreapp3.1\ticToeC.dll
+C:\Users\rawand abo salih\source\repos\ticToeC\ticToeC\bin\Debug\netcoreapp3.1\ticToeC.pdb
+C:\Users\rawand abo salih\source\repos\ticToeC\ticToeC\obj\Debug\netcoreapp3.1\ticToeC.AssemblyInfoInputs.cache
+C:\Users\rawand abo salih\source\repos\ticToeC\ticToeC\obj\Debug\netcoreapp3.1\ticToeC.AssemblyInfo.cs
+C:\Users\rawand abo salih\source\repos\ticToeC\ticToeC\obj\Debug\netcoreapp3.1\ticToeC.csproj.CoreCompileInputs.cache
+C:\Users\rawand abo salih\source\repos\ticToeC\ticToeC\obj\Debug\netcoreapp3.1\ticToeC.dll
+C:\Users\rawand abo salih\source\repos\ticToeC\ticToeC\obj\Debug\netcoreapp3.1\ticToeC.pdb
+C:\Users\rawand abo salih\source\repos\ticToeC\ticToeC\obj\Debug\netcoreapp3.1\ticToeC.genruntimeconfig.cache
+C:\Users\rawand abo salih\source\repos\ticToeC\ticToeC\obj\Debug\netcoreapp3.1\ticToeC.csprojAssemblyReference.cache
